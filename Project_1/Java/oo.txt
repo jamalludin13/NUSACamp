@@ -1,0 +1,11 @@
+Soal 
+1. Mengapa  PURE OO Language?
+2. Mengapa hybrid OO language?
+
+Jawab :
+1. Karena java adalah salah satu bahasa pemrograman yang penulisannya object dan memiliki
+ inheritance.  bahasa PURE O0 yang mendukung
+ atau memiliki fitur yang memperlakukan segala sesuatu di dalam program sebagai objek.
+
+2. Bahasa yang dirancang untuk pemrograman object dengan beberapa elemen procedural.
+ 
